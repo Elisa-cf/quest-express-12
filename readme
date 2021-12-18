@@ -1,0 +1,22 @@
+ npm init -y
+ npm install express
+ npm nodemon --save-dev
+ 
+ "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  
+  create code app.js
+  create gitignore
+  npm install mysql2
+  npm install dotenv
+  npm install joi
+  npm install argon2
+
+  create .env file
+  create file db-config.js
+
+  create folders: models and routes 
+
+  create tables mysql
